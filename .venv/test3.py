@@ -1,1 +1,1 @@
-print("bug！！！！！！！！！！")
+print("hellooooooo")
